@@ -26,4 +26,3 @@ observatii:
 
 -componentele SPI ESD Protection Lines sunt mai grupate decat in modelul oferit
 - toate test pad-urile sunt pe pcb, desi in model doar 5 erau
->>>>>>> ceva
